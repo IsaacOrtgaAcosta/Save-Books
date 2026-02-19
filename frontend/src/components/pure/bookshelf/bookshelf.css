@@ -1,0 +1,39 @@
+.bookshelfContent {
+  display: grid;
+  place-items: center;
+  margin-top: 2rem;
+}
+.bookshelfContent h2 {
+  margin: 0.5rem;
+}
+.bookshelfBooks {
+  margin-top: 3rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+  filter: brightness(95%);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+}
+
+.commentContent{
+    display: grid;
+    margin: .5rem;
+    min-width: 100%;
+    place-items: center;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.3);
+}
+.commentContent h5, p{
+    margin: .5rem;
+}
+.spanDeleteBook{
+    margin: 1rem;
+    color: brown;
+}
