@@ -1,0 +1,740 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1422,
+    "items": [
+    {
+    "kind": "books#volume",
+    "id": "YDi9EAAAQBAJ",
+    "etag": "/PhsQVGzwYw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YDi9EAAAQBAJ",
+    "volumeInfo": {
+    "title": "Juego de tronos (Canción de hielo y fuego 1)",
+    "authors": [
+    "George R.R. Martin"
+    ],
+    "publisher": "PLAZA & JANÉS",
+    "publishedDate": "2023-06-22",
+    "description": "Los cinco títulos hasta ahora publicados de «Canción de hielo y fuego», Juego de tronos, Choque de reyes, Tormenta de espadas, Festín de cuervos y Danza de dragones, llegan a las librerías en una nueva edición que conquistará tanto a los fans de esta saga épica como a aquellos que esperan la oportunidad perfecta para adentrarse en sus páginas por primera vez. «Larga vida a George Martin... Sacerdote literario, sabedor de su don para el personaje complejo, el lenguaje vívido y la visión salvaje de los mejores narradores.» The New York Times «Cuando se juega al juego de tronos, solo se puede ganar o morir. No hay puntos intermedios.» En un mundo diferente al nuestro, en el que los veranos y los inviernos duran generaciones, un gran conflicto está a punto de estallar. Robert Baratheon ocupa el Trono de Hierro en el cálido y opulento sur de Poniente. Se lo arrebató tras una sangrienta guerra al último rey loco de la dinastía Targaryen, señores de dragones. Sin embargo, ahora su poder se ve amenazado: en el norte, el Muro erigido para proteger el reino de las bestias y de los extraños se tambalea. Hace siglos que nadie ve a los caminantes blancos, pero ¿quiénes son entonces esos seres de ojos azules y fríos que se ocultan en las sombras de los bosques y que les arrebatan la vida y la mente a aquellos desafortunados que se cruzan en su camino? El final del verano está próximo, se acerca el invierno y solo un milagro podrá disipar las tinieblas. La crítica ha dicho: «Larga vida a George Martin... Sacerdote literario, sabedor de su don para el personaje complejo, el lenguaje vívido y la visión salvaje de los mejores narradores.» The New York Times «La capacidad de Martin para crear historias apasionantes de intriga es indiscutible.» El Mundo «Entre aquellos que se afanan en la gran tradición épica de la fantasía, Martin es, con diferencia, el mejor.» TIME Magazine «El sobrecogedor alcance de esta epopeya ha hecho que otros escritores de fantasía se lleven las manos a la cabeza.» The Guardian «El escritor de la famosa saga hace tiempo que ha resuelto su porvenir y ha construido su indiscutible trono: el del nuevo rey de la literatura fantástica.» Vanitatis",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9788401031595"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "8401031591"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 1121,
+    "printType": "BOOK",
+    "categories": [
+    "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=YDi9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=YDi9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=YDi9EAAAQBAJ&printsec=frontcover&dq=juego+de+tronos&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YDi9EAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YDi9EAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 9.99,
+    "currencyCode": "EUR"
+    },
+    "retailPrice": {
+    "amount": 9.49,
+    "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YDi9EAAAQBAJ&rdid=book-YDi9EAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 9990000,
+    "currencyCode": "EUR"
+    },
+    "retailPrice": {
+    "amountInMicros": 9490000,
+    "currencyCode": "EUR"
+    },
+    "giftable": true
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.es/books/download/Juego_de_tronos_Canci%C3%B3n_de_hielo_y_fueg-sample-epub.acsm?id=YDi9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.es/books/download/Juego_de_tronos_Canci%C3%B3n_de_hielo_y_fueg-sample-pdf.acsm?id=YDi9EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YDi9EAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Los cinco títulos hasta ahora publicados de «Canción de hielo y fuego», Juego de tronos, Choque de reyes, Tormenta de espadas, Festín de cuervos y Danza de dragones, llegan a las librerías en una nueva edición que conquistará tanto ..."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "y_dIEAAAQBAJ",
+    "etag": "kvXNlE70LR8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/y_dIEAAAQBAJ",
+    "volumeInfo": {
+    "title": "Juego de tronos. Realidades, ficciones, turismos",
+    "authors": [
+    "Pere Parramon Rubio",
+    "Francesc Xavier Medina Luque"
+    ],
+    "publisher": "Ed. Universidad de Cantabria",
+    "publishedDate": "2021-11-19",
+    "description": "La influencia de los rodajes cinematográficos o televisivos en el interés turístico de determinados destinos ha ido tomando fuerza en los últimos años. En este libro analizamos el caso del rodaje de una superproducción internacional como es Juego de tronos en localizaciones de Irlanda del Norte o Girona, entre otras, examinando su repercusión en clave turística y los modos en que se entrelazan los atractivos preexistentes con la ficción creada por la productora HBO a partir de los libros de George R. R. Martin. Desde la especificidad del uso turístico de una de las series más exitosas de los últimos años podemos extrapolar diferentes reflexiones relacionadas con fenómenos como la construcción de cánones culturales y de imaginarios, o la noción de autoría en una contemporaneidad en la cual las expectativas del público ganan terreno.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9788417888213"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "8417888217"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": true
+    },
+    "pageCount": 147,
+    "printType": "BOOK",
+    "categories": [
+    "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=y_dIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=y_dIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=y_dIEAAAQBAJ&printsec=frontcover&dq=juego+de+tronos&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=y_dIEAAAQBAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Juego_de_tronos_Realidades_ficciones_tur.html?hl=&id=y_dIEAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.es/books/download/Juego_de_tronos_Realidades_ficciones_tur-sample-pdf.acsm?id=y_dIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=y_dIEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "La influencia de los rodajes cinematográficos o televisivos en el interés turístico de determinados destinos ha ido tomando fuerza en los últimos años."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "WOwmzgEACAAJ",
+    "etag": "tNrVQX6/TaE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/WOwmzgEACAAJ",
+    "volumeInfo": {
+    "title": "El arte de Juego de Tronos",
+    "authors": [
+    "Deborah Riley",
+    "Jody Revenson"
+    ],
+    "publishedDate": "2019",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8445006835"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788445006832"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 430,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=WOwmzgEACAAJ&dq=juego+de+tronos&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=WOwmzgEACAAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/El_arte_de_Juego_de_Tronos.html?hl=&id=WOwmzgEACAAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WOwmzgEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Desde la primera temporada, Juego de Tronos ha sido una de las series televisivas más populares y de mayor éxito."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "aTisBwAAQBAJ",
+    "etag": "j+dao2kOjaU",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/aTisBwAAQBAJ",
+    "volumeInfo": {
+    "title": "Ganar o morir",
+    "subtitle": "Lecciones políticas en Juego de tronos",
+    "authors": [
+    "Pablo Iglesias (coord.)"
+    ],
+    "publisher": "Ediciones AKAL",
+    "publishedDate": "2015-01-12",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9788446041818"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "8446041812"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+    "Political Science"
+    ],
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=aTisBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=aTisBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=aTisBwAAQBAJ&printsec=frontcover&dq=juego+de+tronos&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=aTisBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aTisBwAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+    "amount": 8.59,
+    "currencyCode": "EUR"
+    },
+    "retailPrice": {
+    "amount": 8.59,
+    "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=aTisBwAAQBAJ&rdid=book-aTisBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+    {
+    "finskyOfferType": 1,
+    "listPrice": {
+    "amountInMicros": 8590000,
+    "currencyCode": "EUR"
+    },
+    "retailPrice": {
+    "amountInMicros": 8590000,
+    "currencyCode": "EUR"
+    },
+    "giftable": true
+    }
+    ]
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.es/books/download/Ganar_o_morir-sample-epub.acsm?id=aTisBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+    "isAvailable": true,
+    "acsTokenLink": "http://books.google.es/books/download/Ganar_o_morir-sample-pdf.acsm?id=aTisBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=aTisBwAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "7z-ezQEACAAJ",
+    "etag": "K0uCTz7F2h8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7z-ezQEACAAJ",
+    "volumeInfo": {
+    "title": "Juego de tronos, el vestuario",
+    "authors": [
+    "Michele Clapton",
+    "Gina McIntyre"
+    ],
+    "publishedDate": "2019",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8445006851"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788445006856"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 438,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=7z-ezQEACAAJ&dq=juego+de+tronos&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=7z-ezQEACAAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Juego_de_tronos_el_vestuario.html?hl=&id=7z-ezQEACAAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7z-ezQEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "Descubre los secretos detrás de la creación del vestuario para Juego de Tronos, la serie de HBO, en esta guía definitiva."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "cgU5EAAAQBAJ",
+    "etag": "V8dIQpaOVNE",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/cgU5EAAAQBAJ",
+    "volumeInfo": {
+    "title": "De Poniente a Roma",
+    "subtitle": "La huella clásica en Juego de Tronos",
+    "authors": [
+    "Aurora López Güeto"
+    ],
+    "publisher": "Tecnos",
+    "publishedDate": "2020-09-17",
+    "description": "De Roma a Poniente ofrece al lector una amplia muestra de parecidos razonables entre la sociedad retratada en la exitosa serie Juego de Tronos, inspirada en las novelas de George R. R. Martin, y la vida en la Roma clásica. La premisa es, a primera vista, sorprendente: el Derecho de los Siete Reinos es Derecho romano, pero se justifica al abordarse el tratamiento en la saga de cuestiones como el status de libertad frente a la condición de esclavitud, la herencia, las relaciones de parentesco, la represión del adulterio y del incesto o el castigo a los parricidas. Y, muy en especial, el papel reservado a las mujeres, con sus avances y retrocesos. De manera sutil, fluyen entre las tramas políticas y personales de Westeros (y Essos) las normas del sistema jurídico más rico y complejo de la Antigüedad, dotado de una perfección técnica que no deja de admirar a quienes se acercan, en nuestros días, a estudiarlo. Pero, por encima de todo, esta obra es un homenaje de la autora a Juego de Tronos, la serie total. Sus fieles seguidores podrán revivir las escenas más emocionantes a través de las semblanzas de sus personajes protagonistas y de sus imprescindibles secundarios, así como disfrutar de muchos de sus agudos diálogos. Un tributo muy personal, una visión diferente y arriesgada desde la órbita académica, pero al alcance de cualquier amante de la cultura clásica y de la propia serie. No en vano, hay tantos Juegos de Tronos como espectadores.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9788430979103"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "8430979107"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": false
+    },
+    "pageCount": 295,
+    "printType": "BOOK",
+    "categories": [
+    "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.2",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=cgU5EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=cgU5EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=cgU5EAAAQBAJ&dq=juego+de+tronos&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=cgU5EAAAQBAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/De_Poniente_a_Roma.html?hl=&id=cgU5EAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": true
+    },
+    "pdf": {
+    "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=cgU5EAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "De Roma a Poniente ofrece al lector una amplia muestra de parecidos razonables entre la sociedad retratada en la exitosa serie Juego de Tronos, inspirada en las novelas de George R. R. Martin, y la vida en la Roma clásica."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "lhoZogEACAAJ",
+    "etag": "468Ez34K/2Y",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/lhoZogEACAAJ",
+    "volumeInfo": {
+    "title": "Ganar o morir: Lecciones políticas en Juego de Tronos",
+    "authors": [
+    "Pablo Iglesias",
+    "Pablo Iglesias Turrión",
+    "Santiago Alba Rico"
+    ],
+    "publishedDate": "2014",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8446040107"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788446040101"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+    "Philosophy"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=lhoZogEACAAJ&dq=juego+de+tronos&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=lhoZogEACAAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Ganar_o_morir_Lecciones_pol%C3%ADticas_en_Ju.html?hl=&id=lhoZogEACAAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lhoZogEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "«¿Qué sentido tiene dedicar tiempo a escribir un libro sobre Juego de tronos? ¿No es acaso una tarea ociosa? ¿No hay asuntos más importantes a los que prestar atención ante el drama social y político en el que estamos inmersos?"
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "JKqQEAAAQBAJ",
+    "etag": "DkVlsbiNdKA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JKqQEAAAQBAJ",
+    "volumeInfo": {
+    "title": "Juego de tronos / A Game of Thrones",
+    "authors": [
+    "George R. R. Martin"
+    ],
+    "publisher": "National Geographic Books",
+    "publishedDate": "2022-06-21",
+    "description": "Con Juego de Tronos George R. R. Martin ha creado una obra maestra, ofreciendo todos los mejores aspectos del género. Misterio, intriga, romance y aventura llenan las páginas de este primer volumen de la monumental saga Canción de hielo y fuego, transportando al lector a un mundo como ningún otro. En el legendario mundo de los Siete Reinos, donde el verano puede durar décadas y el invierno toda una vida, y donde rastros de una magia primitiva surgen en los rincones más sombríos, la tierra del norte, Invernalia, está protegida por un colosal muro de hielo que detiene a fuerzas oscuras y sobrenaturales. En este majestuoso escenario, lord Stark y su familia se encuentran en el centro de un conflicto que desatará todas las pasiones: la traición y la lealtad, la compasión y la sed de venganza, el amor y el poder, la lujuria y el incesto, todo ello para ganar la más mortal de las batallas: el juego de tronos. Ya considerado un clásico moderno, la impresionante serie de Martin perdurará como uno de los grandes logros de la imaginación y de la literatura fantástica. ENGLISH DESCRIPTION THE BOOK BEHIND THE FIRST SEASON OF THE ACCLAIMED HBO SERIES GAME OF THRONES #1 NEW YORK TIMES BESTSELLER A SONG OF ICE AND FIRE SERIES: BOOK 1 Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King’s Landing. There Eddard Stark of Winterfell rules in Robert’s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse—unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season. Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen’s brothers Jaime and Tyrion of the powerful and wealthy House Lannister—the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms. Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki—whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_13",
+    "identifier": "9781644736135"
+    },
+    {
+    "type": "ISBN_10",
+    "identifier": "1644736136"
+    }
+    ],
+    "readingModes": {
+    "text": true,
+    "image": false
+    },
+    "pageCount": 0,
+    "printType": "BOOK",
+    "categories": [
+    "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "imageLinks": {
+    "smallThumbnail": "http://books.google.com/books/content?id=JKqQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+    "thumbnail": "http://books.google.com/books/content?id=JKqQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=JKqQEAAAQBAJ&dq=juego+de+tronos&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=JKqQEAAAQBAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Juego_de_tronos_A_Game_of_Thrones.html?hl=&id=JKqQEAAAQBAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JKqQEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "ENGLISH DESCRIPTION THE BOOK BEHIND THE FIRST SEASON OF THE ACCLAIMED HBO SERIES GAME OF THRONES #1 NEW YORK TIMES BESTSELLER A SONG OF ICE AND FIRE SERIES: BOOK 1 Winter is coming."
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "VaqtMQEACAAJ",
+    "etag": "I0ZkZRaVtXA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VaqtMQEACAAJ",
+    "volumeInfo": {
+    "title": "Canción de hielo y fuego 01. Juego de tronos",
+    "authors": [
+    "George R. R. Martin"
+    ],
+    "publishedDate": "2012-10-02",
+    "description": "Tras el largo verano, el invierno se acerca a los Siete Reinos. Lord Eddard Stark, señor de Invernalia, deja sus dominios para unirse a la corte de su amigo el rey Robert Baratheon, llamado el Usurpador, hombre díscolo y otrora guerrero audaz cuyas mayores aficiones son comer, beber y engendrar bastardos. Eddard Stark ocupará el cargo de Mano del Rey e intentará desentrañar una maraña de intrigas que pondrá en peligro su vida y la de todos los suyos. En un mundo cuyas estaciones pueden durar decenios y en el que retazos de una magia inmemorial y olvidada surgen en los rincones más sombríos y maravillosos, la traición y la lealtad, la compasión y la sed de venganza, el amor y el poder hacen del juego de tronos una poderosa trampa que atrapará en sus fauces a los personajes... y al lector.",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8496208923"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788496208926"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 790,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=VaqtMQEACAAJ&dq=juego+de+tronos&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=VaqtMQEACAAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Canci%C3%B3n_de_hielo_y_fuego_01_Juego_de_tr.html?hl=&id=VaqtMQEACAAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VaqtMQEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    }
+    },
+    {
+    "kind": "books#volume",
+    "id": "QFdVzwEACAAJ",
+    "etag": "0l+uRPiYjeM",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/QFdVzwEACAAJ",
+    "volumeInfo": {
+    "title": "Juego de Tronos 2 : canción de hielo y fuego",
+    "authors": [
+    "George R. R. Martin"
+    ],
+    "publishedDate": "2019-10",
+    "industryIdentifiers": [
+    {
+    "type": "ISBN_10",
+    "identifier": "8491740325"
+    },
+    {
+    "type": "ISBN_13",
+    "identifier": "9788491740322"
+    }
+    ],
+    "readingModes": {
+    "text": false,
+    "image": false
+    },
+    "pageCount": 0,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+    "containsEpubBubbles": false,
+    "containsImageBubbles": false
+    },
+    "language": "es",
+    "previewLink": "http://books.google.es/books?id=QFdVzwEACAAJ&dq=juego+de+tronos&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.es/books?id=QFdVzwEACAAJ&dq=juego+de+tronos&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Juego_de_Tronos_2_canci%C3%B3n_de_hielo_y_fu.html?hl=&id=QFdVzwEACAAJ"
+    },
+    "saleInfo": {
+    "country": "ES",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+    },
+    "accessInfo": {
+    "country": "ES",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+    "isAvailable": false
+    },
+    "pdf": {
+    "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QFdVzwEACAAJ&hl=&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+    },
+    "searchInfo": {
+    "textSnippet": "George R. R. Martin se une al aclamado novelista Daniel Abraham y al dibujante Tommy Patterson para insuflar nueva vida a la obra maestra de la fantasía heroica Canción de hielo y fuego como nunca se había visto antes: en una novela ..."
+    }
+    }
+    ]
+    }
